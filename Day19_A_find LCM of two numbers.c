@@ -36,3 +36,4 @@ int main() {
     printf("%d", lcm);
     return 0;
 }
+
