@@ -29,3 +29,4 @@ int main() {
     printf("%d", a);   // 'a' now contains the HCF
     return 0;
 }
+
