@@ -16,3 +16,4 @@ printf("Maximum element is %d\n", max);
 printf("Minimum element is %d\n", min);
 }
 
+
