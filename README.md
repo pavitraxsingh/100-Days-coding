@@ -1,4 +1,4 @@
-100 Days of Code – C Programming Challenge
+*100 Days of Code – C Programming Challenge*
 
 This repository documents my 100 Days of Code journey focused entirely on C programming. The challenge is organized into multiple branches, each covering a 10-day segment for clean and structured progress tracking.
 
