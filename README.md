@@ -97,3 +97,4 @@ Small projects to apply concepts
 Contact
 
 For suggestions, collaboration, or feedback, feel free to connect or open an issue.
+pavitraxsingh@gmail.com
